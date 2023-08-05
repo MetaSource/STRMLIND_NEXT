@@ -7,6 +7,7 @@ import Navbar from "@/components/Navbar";
 import Services from "@/components/Services";
 import WaveDivider from "@/components/WaveDivider";
 
+
 export default function Home() {
   return (
     <main >
