@@ -17,7 +17,7 @@ const Services = () => {
 
 
   return (
-    <div className="bg-[#E0E0DB] flex-center flex-col justify-center p-16">
+    <div className="bg-[#E0E0DB] flex-center flex-col justify-center p-4 pt-12 md:p-16">
         <h1 className="contact__title text-center">Our Services</h1>
         <ul className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-10 mb-16">
             {serviceList.map((service, serviceIndex) => 

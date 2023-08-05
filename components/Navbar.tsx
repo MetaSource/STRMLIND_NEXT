@@ -21,8 +21,8 @@ const Navbar = () => {
         <ul className='flex flex-col fixed w-full h-full items-center justify-center'>
             <li className='font-bold text-3xl p-8'>Home</li>
             <li className='font-bold text-3xl p-8'>Services</li>
-            <li className='font-bold text-3xl p-8'>Contact</li>
             <li className='font-bold text-3xl p-8'>About</li>
+            <li className='font-bold text-3xl p-8'>Contact</li>
         </ul>
         </div>       
     </div>
