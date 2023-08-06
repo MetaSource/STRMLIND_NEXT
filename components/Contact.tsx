@@ -31,7 +31,7 @@ const Form1 = () => {
 
 const Contact = () => {
   return (
-    <section className='bg-[#E0E0DB] flex-center p-4 pt-8 pb-8 md:p-20'>
+    <section id="contact-section" className='bg-[#E0E0DB] flex-center p-4 pt-8 pb-8 md:p-20'>
         <div className='flex items-start justify-center flex-row flex-wrap m-auto'>
             <div className='max-w-md'>
                 <h1 className='contact__title text-center md:text-start'>Contact Us</h1>
