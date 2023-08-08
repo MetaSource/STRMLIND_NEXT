@@ -35,7 +35,7 @@ const Contact = () => {
         <div className='flex items-start justify-center flex-row flex-wrap m-auto'>
             <div className='max-w-md'>
                 <h1 className='contact__title text-center md:text-start'>Contact Us</h1>
-                <p className='contact__text mt-6 text-center md:text-start'>Please provide contact information and a breif description of services required. Thank you</p>
+                <p className='contact__text mt-6 text-center md:text-start'>Please provide contact information and a brief description of services required. Thank you</p>
             </div>
             <div className='max-w-md '>
                 <ContactForm />

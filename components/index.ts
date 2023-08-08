@@ -8,5 +8,5 @@ import ContactForm from "./ContactForm";
 import WaveDivider from "./WaveDivider";
 
 export {
-    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm
+    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm, WaveDivider
 }
