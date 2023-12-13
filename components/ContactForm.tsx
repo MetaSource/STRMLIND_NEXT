@@ -47,7 +47,6 @@ const ContactForm = () => {
         });
     };
   
-
   return (
     <form ref={form} onSubmit={sendEmail} className='max-w-[600px] m-auto'>
       <ToastContainer />

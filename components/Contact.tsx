@@ -2,33 +2,6 @@ import React from 'react'
 import ContactForm from './ContactForm'
 
 
-const Form1 = () => {
-    return (<form className='max-w-[600px] m-auto contact__text' >
-
-                <div className='grid grid-cols-2 gap-2'>
-                    <label className=''>First name
-                    <input className="border shadow-lg p-3" type="text" placeholder='First'/>
-                    </label>
-
-                    <label>Last Name
-                    <input className="border shadow-lg p-3"  type="text" placeholder='Last'/>
-                    </label>
-                </div>
-
-                    <label>Email
-                    <input className="border shadow-lg p-3 w-full" type="email"  placeholder='Email'/>
-                    </label>
-
-
-                <label>Message:
-                    <input className="border shadow-lg p-3 w-full" type="textArea" placeholder='Message' />
-                    </label>
-        
-             </form>
-            )
-}
-
-
 const Contact = () => {
   return (
     <section id="contact-section" className='bg-[#E0E0DB] flex-center p-4 pt-8 pb-8 md:p-20'>
@@ -41,7 +14,6 @@ const Contact = () => {
                 <ContactForm />
             </div>
         </div>
-
     </section>
   )
 }

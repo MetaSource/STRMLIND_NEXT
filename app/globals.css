@@ -52,6 +52,11 @@
   @apply text-[27px] text-black-100 font-light mt-0;
 }
 
+
+.hero__subtitle_yt {
+  @apply text-[27px] text-gray-300 font-light mt-0;
+}
+
 .hero__image-container {
   @apply xl:flex-[1.5] flex justify-end items-end w-full xl:h-screen;
 }
@@ -74,7 +79,32 @@
   @apply text-[18px] text-black-100 font-light mb-10;
 }
 
+.bluewave {
+  background: url("../public/wave.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
 
+.thin-wave {
+  background: url("/thinwave.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
+  background: url("/footer.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
 
 /******** Waves ****/
 .custom-shape-divider-top-1691138358 {

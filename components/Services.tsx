@@ -6,13 +6,13 @@ const Services = () => {
 
   const serviceList = [
       { serviceName : "Digital FootPrint", 
-        descrition: "Every business needs a strong digital presence to remain competitive in todays digital landscape. As a solution we provide simple package that includes Domain + Website."
+        descrition: "Every business needs a strong digital presence to remain competitive in todays digital landscape. As a solution we provide simple package that includes a domain and an elegant landing page with basic contact integration."
       },
-      { serviceName : "Online Store", 
-        descrition: "Let us handle the fuss of building and setting up your online store. Choose from the available commerce templates or optionally a custom store with Payment Integrations."
-      },
+      { serviceName : "Consultation", 
+        descrition: "We can design the exact solution your business needs. Schedule a consultation with us today and lets get started crafting the perfect roadmap for your business."
+      }, 
       { serviceName : "Apps", 
-        descrition: "Have an idea that you need to bring to market? We can build end to end software solutions for all your business needs."
+        descrition: "Have an idea that you need to bring to market? We can build intuitive, elegant, and scalable end to end software solutions for your every business need."
       } ]; 
 
 

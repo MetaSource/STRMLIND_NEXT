@@ -2,7 +2,7 @@
 
 export const Hero = () => {
   return (
-    <div className="hero w-full h-screen bg-cover bg-no-repeat bg-[url('/bg-4.jpg')] ">
+    <div className="hero w-full h-screen bg-cover bg-no-repeat bg-wave ">
         <div className="flex-1 pt-36 padding-x">
             <h1 className='hero__title'>
                 STRMLIND 

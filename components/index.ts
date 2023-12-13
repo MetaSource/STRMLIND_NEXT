@@ -6,7 +6,7 @@ import MissionStatement from "./MissionStatement";
 import Contact from "./Contact";
 import ContactForm from "./ContactForm";
 import WaveDivider from "./WaveDivider";
-
+import Footer from "./Footer";
 export {
-    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm, WaveDivider
+    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm, WaveDivider, Footer
 }

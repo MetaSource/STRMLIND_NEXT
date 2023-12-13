@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <div className="absolute w-full flex justify-between p-4 items-center">
-        <h1 className='font-bold text-2xl z-20'>STRMLIND.COM</h1>
+        <h1 className='font-bold text-2xl z-20 text-gray-900'>STRMLIND.COM</h1>
         {!nav? <HiMenuAlt3 onClick={handleNav} className='z-20 cursor-pointer'  size={25}  />: 
         <AiOutlineClose onClick={handleNav} className='z-20 cursor-pointer'  size={25}  />}
         <div className={ 
