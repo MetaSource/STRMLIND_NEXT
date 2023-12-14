@@ -7,6 +7,7 @@ import Contact from "./Contact";
 import ContactForm from "./ContactForm";
 import WaveDivider from "./WaveDivider";
 import Footer from "./Footer";
+import PrivacyPolicyTemplate from "./PrivacyPolicyTemplate";
 export {
-    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm, WaveDivider, Footer
+    Hero, CustomButton, Navbar, Services, MissionStatement, Contact, ContactForm, WaveDivider, Footer, PrivacyPolicyTemplate
 }
