@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const PrivacyPolicy = () => {
+const PrivacyPolicyTemplate = () => {
   return (
     <div className='flex flex-col'>
         <h1>Privacy Policy</h1>
@@ -187,6 +187,6 @@ const PrivacyPolicy = () => {
   )
 }
 
-export default PrivacyPolicy
+export default PrivacyPolicyTemplate
 
 
